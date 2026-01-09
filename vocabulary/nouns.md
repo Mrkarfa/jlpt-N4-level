@@ -3,368 +3,368 @@
 Detail list about all the nouns which is required for the JLPT N4 level exam.
 Total Nouns: 363
 
-Format: Noun [ Japanese ] - Romaji [ English ] - Meaning [ English ]
-
-- アフリカ - afurika - Africa
-- 挨拶 [ あいさつ ] - aisatsu - to greet
-- 味 [ あじ ] - aji - flavor; taste​; uniqueness; attractiveness; experience
-- アジア - ajia - Asia
-- 赤ちゃん [ あかちゃん ] - akachan - baby; infant
-- 赤ん坊 [ あかんぼう ] - akanbou - baby; infant
-- アクセサリー - akusesarii - accessory
-- アメリカ - amerika - America
-- アナウンサー - anaunsaa - announcer
-- 案内 [ あんない ] - annai - to guide
-- 安心 [ あんしん ] - anshin - peace of mind
-- 安全 [ あんぜん ] - anzen - safety; security​
-- アルバイト - arubaito - part-time job
-- アルコール - arukooru - alcohol
-- 遊び [ あそび ] - asobi - playing
-- 倍 [ ばい ] - bai - double
-- 番組 [ ばんぐみ ] - bangumi - program (e.g. TV)
-- 場所 [ ばしょ ] - basho - place
-- ベル - beru - bell
-- 美術館 [ びじゅつかん ] - bijutsukan - art gallery; art museum
-- ビル - biru - building
-- 貿易 [ ぼうえき ] - boueki - trade
-- 部長 [ ぶちょう ] - buchou - manager; head (chief, director) of a section or department
-- ぶどう - budou - grapes
-- 文学 [ ぶんがく ] - bungaku - literature
-- 文化 [ ぶんか ] - bunka - culture
-- 文法 [ ぶんぽう ] - bunpou - grammar
-- チェック - chekku - to check
-- 血 [ ち ] - chi - blood
-- 力 [ ちから ] - chikara - energy; force; strength; might; power
-- 地理 [ ちり ] - chiri - geography
-- 中学校 [ ちゅうがっこう ] - chuugakkou - junior high school; middle school
-- 注意 [ ちゅうい ] - chuui - caution
-- 注射 [ ちゅうしゃ ] - chuusha - injection
-- 駐車場 [ ちゅうしゃじょう ] - chuushajou - parking lot
-- 大学生 [ だいがくせい ] - daigakusei - university student; college student
-- 大体 [ だいたい ] - daitai - roughly
-- 暖房 [ だんぼう ] - danbou - heating
-- 男性 [ だんせい ] - dansei - man; male
-- 電報 [ でんぽう ] - denpou - telegram
-- 電灯 [ でんとう ] - dentou - electric light
-- 泥棒 [ どろぼう ] - dorobou - thief
-- 動物園 [ どうぶつえん ] - doubutsuen - zoo; zoological gardens
-- 道具 [ どうぐ ] - dougu - tool
-- 枝 [ えだ ] - eda - branch
-- 遠慮 [ えんりょ ] - enryo - reserve; refraining
-- エスカレーター - esukareetaa - escalator
-- ファックス - fakkusu - fax
-- 不便 [ ふべん ] - fuben - inconvenience
-- 復習 [ ふくしゅう ] - fukushuu - review (of learned material); revision
-- 複雑 [ ふくざつ ] - fukuzatsu - complexity; complication
-- 船 [ ふね ] - fune - ship
-- 布団 [ ふとん ] - futon - Japanese bedding, futon
-- 普通 [ ふつう ] - futsuu - usually
-- ガラス - garasu - a glass
-- ガソリン - gasorin - gasoline; petrol
-- ガソリンスタンド - gasorin sutando - petrol station
-- ガス - gasu - petrol
-- 原因 [ げんいん ] - genin - cause
-- 下宿 [ げしゅく ] - geshuku - lodging
-- 技術 [ ぎじゅつ ] - gijutsu - art,technology,skill
-- ごちそう - gochisou - a feast
-- ごみ - gomi - rubbish
-- ご主人 [ ごしゅじん ] - goshujin - your husband; her husband
-- ご存じ [ ごぞんじ ] - gozonji - knowing
-- 具合 [ ぐあい ] - guai - condition; health
-- 葉 [ は ] - ha - leaves; leaf
-- 拝見 [ はいけん ] - haiken - seeing; looking at​
-- 歯医者 [ はいしゃ ] - haisha - dentist
-- 花見 [ はなみ ] - hanami - cherry blossom viewing; flower viewing
-- ハンドバッグ - handobaggu - handbag
-- 反対 [ はんたい ] - hantai - opposition
-- 発音 [ はつおん ] - hatsuon - pronunciation
-- 林 [ はやし ] - hayashi - woods; forest
-- 変 [ へん ] - hen - strange; peculiar; weird
-- 返事 [ へんじ ] - henji - reply; answer; response
-- 火 [ ひ ] - hi - fire
-- 髭 [ ひげ ] - hige - beard
-- 光 [ ひかり ] - hikari - light
-- 引き出し [ ひきだし ] - hikidashi - drawer
-- 飛行場 [ ひこうじょう ] - hikoujou - airfield; airport
-- 昼間 [ ひるま ] - hiruma - daytime; during the day
-- 昼休み [ ひるやすみ ] - hiruyasumi - lunch break; noon recess; noon rest period
-- 久しぶり [ ひさしぶり ] - hisashiburi - after a long time
-- 翻訳 [ ほんやく ] - honyaku - translation
-- 星 [ ほし ] - hoshi - star
-- ほとんど - hotondo - mostly
-- 法律 [ ほうりつ ] - houritsu - law
-- 放送 [ ほうそう ] - housou - to broadcast
-- 一度 [ いちど ] - ichido - once; one time; on one occasion
-- 以外 [ いがい ] - igai - with the exception of; excepting
-- 医学 [ いがく ] - igaku - medical science; medicine
-- 以上 [ いじょう ] - ijou - ... and more; ... and upwards​
-- 以下 [ いか ] - ika - not exceeding
-- 意見 [ いけん ] - iken - opinion; view; comment
-- 生き物 [ いきもの ] - ikimono - living thing
-- 以内 [ いない ] - inai - within
-- 田舎 [ いなか ] - inaka - countryside
-- いっぱい - ippai - full
-- 石 [ いし ] - ishi - stone
-- 一生懸命 [ いっしょうけんめい ] - isshoukenmei - very hard; with utmost effort
-- 糸 [ いと ] - ito - thread
-- ジャム - jamu - jam
-- 字 [ じ ] - ji - character
-- 時代 [ じだい ] - jidai - period
-- 事故 [ じこ ] - jiko - accident
-- 事務所 [ じむしょ ] - jimusho - office
-- 神社 [ じんじゃ ] - jinja - Shinto shrine
-- 人口 [ じんこう ] - jinkou - population
-- 人生 [ じんせい ] - jinsei - human life
-- 地震 [ じしん ] - jishin - earthquake
-- 辞典 [ じてん ] - jiten - dictionary
-- 自由 [ じゆう ] - jiyuu - freedom
-- 女性 [ じょせい ] - josei - woman; female
-- 準備 [ じゅんび ] - junbi - to prepare
-- 十分 [ じゅうぶん ] - juubun - enough; sufficient; plenty; adequate; satisfactory
-- 柔道 [ じゅうどう ] - juudou - judo
-- 住所 [ じゅうしょ ] - juusho - address
-- カーテン - kaaten - curtain
-- 壁 [ かべ ] - kabe - wall
-- 課長 [ かちょう ] - kachou - section manager; section chief
-- 帰り [ かえり ] - kaeri - return; coming back
-- 科学 [ かがく ] - kagaku - science
-- 鏡 [ かがみ ] - kagami - mirror
-- 海岸 [ かいがん ] - kaigan - coast
-- 会議 [ かいぎ ] - kaigi - meeting; conference; session; assembly
-- 会議室 [ かいぎしつ ] - kaigishitsu - conference room; conference hall; council room
-- 会場 [ かいじょう ] - kaijou - assembly hall; meeting place; venue; grounds
-- 会話 [ かいわ ] - kaiwa - conversation
-- 火事 [ かじ ] - kaji - fire
-- 格好 [ かっこう ] - kakkou - appearance
-- 髪 [ かみ ] - kami - hair
-- 家内 [ かない ] - kanai - (my) wife; inside the home; one's family
-- 看護婦 [ かんごふ ] - kangofu - female nurse
-- 関係 [ かんけい ] - kankei - relationship
-- 簡単 [ かんたん ] - kantan - simple; easy
-- 形 [ かたち ] - katachi - shape
-- 代わり [ かわり ] - kawari - instead; in place
-- 毛 [ け ] - ke - hair or fur
-- ケーキ - keeki - cake
-- 怪我 [ けが ] - kega - to injure
-- 計画 [ けいかく ] - keikaku - to plan
-- 経験 [ けいけん ] - keiken - to experience
-- 警察 [ けいさつ ] - keisatsu - police
-- 経済 [ けいざい ] - keizai - finance, economy
-- 見物 [ けんぶつ ] - kenbutsu - sightseeing; visit
-- 喧嘩 [ けんか ] - kenka - to quarrel
-- 研究 [ けんきゅう ] - kenkyuu - research
-- 研究室 [ けんきゅうしつ ] - kenkyuushitsu - laboratory
-- 消しゴム - keshigomu - eraser
-- 景色 [ けしき ] - keshiki - scenery
-- 気 [ き ] - ki - spirit
-- 気分 [ きぶん ] - kibun - feeling; mood
-- 機会 [ きかい ] - kikai - chance; opportunity
-- 危険 [ きけん ] - kiken - danger
-- 気持ち [ きもち ] - kimochi - feeling
-- 着物 [ きもの ] - kimono - kimono; Japanese traditional clothing
-- 近所 [ きんじょ ] - kinjo - neighbourhood
-- 絹 [ きぬ ] - kinu - silk
-- 季節 [ きせつ ] - kisetsu - season
-- 汽車 [ きしゃ ] - kisha - train
-- 規則 [ きそく ] - kisoku - rule
-- 子 [ こ ] - ko - child
-- 心 [ こころ ] - kokoro - heart
-- 国際 [ こくさい ] - kokusai - international
-- 米 [ こめ ] - kome - (husked grains of) rice
-- 今度 [ こんど ] - kondo - this time; next time
-- この間 [ このあいだ ] - kono aida - the other day; recently
-- このごろ - kono goro - these days; nowadays
-- コンピュータ - konpyuuta - computer
-- コンサート - konsaato - concert
-- 今夜 [ こんや ] - konya - this evening; tonigh
-- 故障 [ こしょう ] - koshou - to break-down
-- 答え [ こたえ ] - kotae - response
-- 小鳥 [ ことり ] - kotori - small bird
-- 校長 [ こうちょう ] - kouchou - principal; headmaster
-- 講堂 [ こうどう ] - koudou - auditorium
-- 郊外 [ こうがい ] - kougai - suburb; residential area on the outskirt of a city
-- 講義 [ こうぎ ] - kougi - lecture
-- 工業 [ こうぎょう ] - kougyou - industry
-- 工場 [ こうじょう ] - koujou - factory
-- 高校 [ こうこう ] - koukou - senior high school; high school​
-- 高校生 [ こうこうせい ] - koukousei - high school student
-- 公務員 [ こうむいん ] - koumuin - government worker
-- 高等学校 [ こうとうがっこう ] - koutougakkou - high school
-- 交通 [ こうつう ] - koutsuu - traffic
-- 首 [ くび ] - kubi - neck
-- 雲 [ くも ] - kumo - cloud
-- 草 [ くさ ] - kusa - grass
-- 空気 [ くうき ] - kuuki - air
-- 空港 [ くうこう ] - kuukou - airport
-- 客 [ きゃく ] - kyaku - guest; customer
-- 教育 [ きょういく ] - kyouiku - education
-- 教会 [ きょうかい ] - kyoukai - church; congregation; Christian church
-- 興味 [ きょう mi ] - kyoumi - interest (in something); curiosity (about something); zest (for)
-- 競争 [ きょうそう ] - kyousou - competition
-- 急行 [ きゅうこう ] - kyuukou - hurrying (to somewhere); rushing; hastening
-- 漫画 [ まんが ] - manga - comic
-- 真ん中 [ まんなか ] - mannaka - middle; centre; center
-- 周り [ まわり ] - mawari - around
-- 港 [ みなと ] - minato - harbour
-- 味噌 [ みそ ] - miso - fermented condiment made from soybeans
-- 都 [ みやこ ] - miyako - capital
-- 湖 [ みずうみ ] - mizuumi - lake
-- 木綿 [ もめん ] - momen - cotton (material)
-- 森 [ もり ] - mori - forest
-- 昔 [ むかし ] - mukashi - olden days, former
-- 無理 [ むり ] - muri - impossible
-- 虫 [ むし ] - mushi - insect
-- 息子 [ むすこ ] - musuko - son
-- 娘 [ むすめ ] - musume - daughter
-- 生 [ なま ] - nama - raw
-- 寝坊 [ ねぼう ] - nebou - sleeping in late; oversleeping
-- 値段 [ ねだん ] - nedan - price; cost
-- 熱 [ ねつ ] - netsu - fever
-- 二階建て [ にかいだて ] - nikaidate - two-storied building
-- 人形 [ にんぎょう ] - ningyou - doll
-- 匂い [ におい ] - nioi - a smell
-- 喉 [ のど ] - nodo - throat
-- 乗り物 [ のりもの ] - norimono - vehicle
-- 入学 [ にゅうがく ] - nyuugaku - entry to school or university; enrollment
-- 入院 [ にゅういん ] - nyuuin - hospitalization
-- 踊り [ おどり ] - odori - a dance
-- お祝い [ おいわい ] - oiwai - congratulation
-- お嬢さん [ おじょうさん ] - ojousan - (another's) daughter
-- 屋上 [ おくじょう ] - okujou - rooftop​
-- 贈り物 [ おくりもの ] - okurimono - present; gift
-- お祭り [ おまつり ] - omatsuri - festival
-- お見舞い [ おみまい ] - omimai - visiting ill or distressed people
-- お土産 [ おみやげ ] - omiyage - souvenir
-- おもちゃ - omocha - toy
-- 表 [ おもて ] - omote - the front
-- オートバイ - ootobai - motorcycle
-- お礼 [ おれい ] - orei - thanks
-- 押し入れ [ おしいれ ] - oshiire - closet
-- お宅 [ おたく ] - otaku - your home
-- 音 [ おと ] - oto - sound; note
-- お釣り [ おつり ] - otsuri - change (for a purchase)​
-- 夫 [ おっと ] - otto - husband
-- 終わり [ おわり ] - owari - the end
-- 親 [ おや ] - oya - parents
-- 泳ぎ方 [ およぎかた ] - oyogikata - way of swimming
-- パート - paato - part; part time
-- パソコン - pasokon - personal computer
-- ピアノ - piano - piano
-- プレゼント - purezento - present; gift
-- 冷房 [ れいぼう ] - reibou - air conditioning
-- レジ - reji - cashier​
-- 歴史 [ れきし ] - rekishi - history
-- レポート - repooto - report
-- 利用 [ りよう ] - riyou - use; utilization; application
-- 理由 [ りゆう ] - riyuu - reason
-- 留守 [ るす ] - rusu - absence
-- 旅館 [ りょかん ] - ryokan - traditional inn; Japanese-style lodging
-- 両方 [ りょうほう ] - ryouhou - both sides
-- 最後 [ さいご ] - saigo - end; last
-- 最近 [ さいきん ] - saikin - recently
-- 最初 [ さいしょ ] - saisho - beginning; first
-- 坂 [ さか ] - saka - slope; hill
-- 昨夜 [ さくや ] - sakuya - last night
-- サンダル - sandaru - sandal
-- サンドイッチ - sandoicchi - sandwich
-- 産業 [ さんぎょう ] - sangyou - industry
-- サラダ - sarada - salad
-- 再来月 [ さらいげつ ] - saraigetsu - month after next
-- 再来週 [ さらいしゅう ] - saraishuu - week after next
-- 生物 [ せいぶつ ] - seibutsu - living thing
-- 政治 [ せいじ ] - seiji - politics
-- 生活 [ せいかつ ] - seikatsu - to live
-- 生命 [ せいめい ] - seimei - life
-- 生産 [ せいさん ] - seisan - production
-- 西洋 [ せいよう ] - seiyou - the west; Western countries
-- 世界 [ せかい ] - sekai - the world
-- 席 [ せき ] - seki - seat
-- 線 [ せん ] - sen - line
-- 背中 [ せなか ] - senaka - back (of body)
-- 先輩 [ せんぱい ] - senpai - senior
-- 戦争 [ せんそう ] - sensou - war
-- 説明 [ せつめい ] - setsumei - explanation
-- 社長 [ しゃちょう ] - shachou - company president; manager; director
-- 社会 [ しゃかい ] - shakai - society; public; community; the world
-- 市 [ し ] - shi - city
-- 試合 [ しあい ] - shiai - match,game
-- 仕方 [ しかた ] - shikata - way; method
-- 試験 [ shiken ] - shiken - examination
-- 島 [ しま ] - shima - island
-- 市民 [ 市民 ] - shimin - citizen
-- 品物 [ しなもの ] - shinamono - goods; article; thing
-- 新聞社 [ しんぶんしゃ ] - shinbunsha - newspaper company
-- 親切 [ しんせつ ] - shinsetsu - kindness
-- 失敗 [ しっぱい ] - shippai - failure
-- 下着 [ したぎ ] - shitagi - underwear
-- 食料品 [ しょくりょうひん ] - shokuryouhin - food; groceries
-- 小学校 [ しょうがっこう ] - shougakkou - elementary school
-- 紹介 [ しょうかい ] - shoukai - introduction
-- 将来 [ しょうらい ] - shourai - future
-- 小説 [ しょうせつ ] - shousetsu - novel
-- 趣味 [ しゅみ ] - shumi - hobby; pastime; preference
-- 習慣 [ しゅうかん ] - shuukan - habit; custom; cultural practice.
-- 祖母 [ そぼ ] - sobo - grandmother
-- 祖父 [ そふ ] - sofu - grandfather
-- ソフト - sofuto - soft
-- 卒業 [ そつぎょう ] - sotsugyou - graduation
-- 相談 [ そうだん ] - soudan - to discuss
-- 水道 [ すいどう ] - suidou - water supply
-- 水泳 [ すいえい ] - suiei - swimming
-- スクリーン - sukuriin - screen
-- 隅 [ すみ ] - sumi - corner; nook
-- 砂 [ すな ] - suna - sand
-- すり - suri - pickpocket
-- スーツケース - sustsukeesu - suitcase
-- ステーキ - suteeki - steak
-- ステレオ - sutereo - stereo
-- 数学 [ すうがく ] - suugaku - mathematics; arithmetic
-- スーツ - suutsu - suit
-- 退院 [ たいいん ] - tai'in - leaving hospital; discharge from hospital
-- 台風 [ たいふう ] - taifuu - typhoon
-- タイプ - taipu - type,style
-- たいてい - taitei - usually
-- 棚 [ たな ] - tana - shelves
-- 誕生 [ たんじょう ] - tanjou - birth
-- 楽しみ [ たのしみ ] - tanoshimi - looking forward to​
-- 畳 [ たたみ ] - tatami - Japanese straw mat
-- 手袋 [ てぶくろ ] - tebukuro - glove
-- 丁寧 [ ていねい ] - teinei - polite
-- テキスト - tekisuto - text; textbook
-- 適当 [ てきとう ] - tekitou - suitable
-- 点 [ てん ] - ten - point; dot
-- 店員 [ てんいん ] - ten'in - employee (of a store); shop assistant; clerk
-- テニス - tenisu - tennis
-- 天気予報 [ てんきよほう ] - tenkiyohou - weather forecast
-- 展覧会 [ てんらんかい ] - tenrankai - exhibition
-- 寺 [ てら ] - tera - temple
-- 途中 [ とちゅう ] - tochuu - on the way
-- 特急 [ とっきゅう ] - tokkyuu - limited express (train, faster than an express)
-- 床屋 [ とこや ] - tokoya - barber
-- 特別 [ とくべつ ] - tokubetsu - special; particular; extraordinary; exceptional
-- 遠く [ とおく ] - tooku - distant
-- 都合 [ つごう ] - tsugou - convenience
-- 月 [ つき ] - tsuki - moon
-- 妻 [ つま ] - tsuma - (humble) wife
-- 腕 [ うで ] - ude - arm
-- 受付 [ うけつけ ] - uketsuke - reception (desk); information desk​
-- 生まれ [ うまれ ] - umare - birth
-- 運転手 [ うんてんしゅ ] - untenshu - driver; chauffeur
-- 裏 [ うら ] - ura - reverse side
-- 売り場 [ うりば ] - uriba - selling area
-- 嘘 [ うそ ] - uso - a lie
-- ワープロ - waapuro - word processor
-- 割合 [ わりあい ] - wariai - rate; ratio
-- 忘れ物 [ わすれもの ] - wasuremono - lost article
-- 約束 [ やくそく ] - yakusoku - promise
-- 予習 [ よしゅう ] - yoshuu - preparation for a lesson
-- 予定 [ よてい ] - yotei - plan
-- 用 [ よう ] - you - business; task; errand; use; purpose
-- 用意 [ ようい ] - youi - preparation; arrangements; provision; getting ready
-- 用事 [ ようじ ] - youji - tasks; things to do; errand; business (to take care of)
-- 予約 [ よやく ] - yoyaku - reservation
-- 湯 [ ゆ ] - yu - hot water
-- 指 [ ゆび ] - yubi - finger
-- 指輪 [ ゆびわ ] - yubiwa - finger ring
-- 夢 [ ゆめ ] - yume - dream
-- 残念 [ ざんねん ] - zannen - regrettable; unfortunate
+| Kanji | Kana | Romaji | Meaning |
+|---|---|---|---|
+| アフリカ | - | afurika | Africa |
+| 挨拶 | あいさつ | aisatsu | to greet |
+| 味 | あじ | aji | flavor; taste​; uniqueness; attractiveness; experience |
+| アジア | - | ajia | Asia |
+| 赤ちゃん | あかちゃん | akachan | baby; infant |
+| 赤ん坊 | あかんぼう | akanbou | baby; infant |
+| アクセサリー | - | akusesarii | accessory |
+| アメリカ | - | amerika | America |
+| アナウンサー | - | anaunsaa | announcer |
+| 案内 | あんない | annai | to guide |
+| 安心 | あんしん | anshin | peace of mind |
+| 安全 | あんぜん | anzen | safety; security​ |
+| アルバイト | - | arubaito | part-time job |
+| アルコール | - | arukooru | alcohol |
+| 遊び | あそび | asobi | playing |
+| 倍 | ばい | bai | double |
+| 番組 | ばんぐみ | bangumi | program (e.g. TV) |
+| 場所 | ばしょ | basho | place |
+| ベル | - | beru | bell |
+| 美術館 | びじゅつかん | bijutsukan | art gallery; art museum |
+| ビル | - | biru | building |
+| 貿易 | ぼうえき | boueki | trade |
+| 部長 | ぶちょう | buchou | manager; head (chief, director) of a section or department |
+| ぶどう | - | budou | grapes |
+| 文学 | ぶんがく | bungaku | literature |
+| 文化 | ぶんか | bunka | culture |
+| 文法 | ぶんぽう | bunpou | grammar |
+| チェック | - | chekku | to check |
+| 血 | ち | chi | blood |
+| 力 | ちから | chikara | energy; force; strength; might; power |
+| 地理 | ちり | chiri | geography |
+| 中学校 | ちゅうがっこう | chuugakkou | junior high school; middle school |
+| 注意 | ちゅうい | chuui | caution |
+| 注射 | ちゅうしゃ | chuusha | injection |
+| 駐車場 | ちゅうしゃじょう | chuushajou | parking lot |
+| 大学生 | だいがくせい | daigakusei | university student; college student |
+| 大体 | だいたい | daitai | roughly |
+| 暖房 | だんぼう | danbou | heating |
+| 男性 | だんせい | dansei | man; male |
+| 電報 | でんぽう | denpou | telegram |
+| 電灯 | でんとう | dentou | electric light |
+| 泥棒 | どろぼう | dorobou | thief |
+| 動物園 | どうぶつえん | doubutsuen | zoo; zoological gardens |
+| 道具 | どうぐ | dougu | tool |
+| 枝 | えだ | eda | branch |
+| 遠慮 | えんりょ | enryo | reserve; refraining |
+| エスカレーター | - | esukareetaa | escalator |
+| ファックス | - | fakkusu | fax |
+| 不便 | ふべん | fuben | inconvenience |
+| 復習 | ふくしゅう | fukushuu | review (of learned material); revision |
+| 複雑 | ふくざつ | fukuzatsu | complexity; complication |
+| 船 | ふね | fune | ship |
+| 布団 | ふとん | futon | Japanese bedding, futon |
+| 普通 | ふつう | futsuu | usually |
+| ガラス | - | garasu | a glass |
+| ガソリン | - | gasorin | gasoline; petrol |
+| ガソリンスタンド | - | gasorin sutando | petrol station |
+| ガス | - | gasu | petrol |
+| 原因 | げんいん | genin | cause |
+| 下宿 | げしゅく | geshuku | lodging |
+| 技術 | ぎじゅつ | gijutsu | art,technology,skill |
+| ごちそう | - | gochisou | a feast |
+| ごみ | - | gomi | rubbish |
+| ご主人 | ごしゅじん | goshujin | your husband; her husband |
+| ご存じ | ごぞんじ | gozonji | knowing |
+| 具合 | ぐあい | guai | condition; health |
+| 葉 | は | ha | leaves; leaf |
+| 拝見 | はいけん | haiken | seeing; looking at​ |
+| 歯医者 | はいしゃ | haisha | dentist |
+| 花見 | はなみ | hanami | cherry blossom viewing; flower viewing |
+| ハンドバッグ | - | handobaggu | handbag |
+| 反対 | はんたい | hantai | opposition |
+| 発音 | はつおん | hatsuon | pronunciation |
+| 林 | はやし | hayashi | woods; forest |
+| 変 | へん | hen | strange; peculiar; weird |
+| 返事 | へんじ | henji | reply; answer; response |
+| 火 | ひ | hi | fire |
+| 髭 | ひげ | hige | beard |
+| 光 | ひかり | hikari | light |
+| 引き出し | ひきだし | hikidashi | drawer |
+| 飛行場 | ひこうじょう | hikoujou | airfield; airport |
+| 昼間 | ひるま | hiruma | daytime; during the day |
+| 昼休み | ひるやすみ | hiruyasumi | lunch break; noon recess; noon rest period |
+| 久しぶり | ひさしぶり | hisashiburi | after a long time |
+| 翻訳 | ほんやく | honyaku | translation |
+| 星 | ほし | hoshi | star |
+| ほとんど | - | hotondo | mostly |
+| 法律 | ほうりつ | houritsu | law |
+| 放送 | ほうそう | housou | to broadcast |
+| 一度 | いちど | ichido | once; one time; on one occasion |
+| 以外 | いがい | igai | with the exception of; excepting |
+| 医学 | いがく | igaku | medical science; medicine |
+| 以上 | いじょう | ijou | ... and more; ... and upwards​ |
+| 以下 | いか | ika | not exceeding |
+| 意見 | いけん | iken | opinion; view; comment |
+| 生き物 | いきもの | ikimono | living thing |
+| 以内 | いない | inai | within |
+| 田舎 | いなか | inaka | countryside |
+| いっぱい | - | ippai | full |
+| 石 | いし | ishi | stone |
+| 一生懸命 | いっしょうけんめい | isshoukenmei | very hard; with utmost effort |
+| 糸 | いと | ito | thread |
+| ジャム | - | jamu | jam |
+| 字 | じ | ji | character |
+| 時代 | じだい | jidai | period |
+| 事故 | じこ | jiko | accident |
+| 事務所 | じむしょ | jimusho | office |
+| 神社 | じんじゃ | jinja | Shinto shrine |
+| 人口 | じんこう | jinkou | population |
+| 人生 | じんせい | jinsei | human life |
+| 地震 | じしん | jishin | earthquake |
+| 辞典 | じてん | jiten | dictionary |
+| 自由 | じゆう | jiyuu | freedom |
+| 女性 | じょせい | josei | woman; female |
+| 準備 | じゅんび | junbi | to prepare |
+| 十分 | じゅうぶん | juubun | enough; sufficient; plenty; adequate; satisfactory |
+| 柔道 | じゅうどう | juudou | judo |
+| 住所 | じゅうしょ | juusho | address |
+| カーテン | - | kaaten | curtain |
+| 壁 | かべ | kabe | wall |
+| 課長 | かちょう | kachou | section manager; section chief |
+| 帰り | かえり | kaeri | return; coming back |
+| 科学 | かがく | kagaku | science |
+| 鏡 | かがみ | kagami | mirror |
+| 海岸 | かいがん | kaigan | coast |
+| 会議 | かいぎ | kaigi | meeting; conference; session; assembly |
+| 会議室 | かいぎしつ | kaigishitsu | conference room; conference hall; council room |
+| 会場 | かいじょう | kaijou | assembly hall; meeting place; venue; grounds |
+| 会話 | かいわ | kaiwa | conversation |
+| 火事 | かじ | kaji | fire |
+| 格好 | かっこう | kakkou | appearance |
+| 髪 | かみ | kami | hair |
+| 家内 | かない | kanai | (my) wife; inside the home; one's family |
+| 看護婦 | かんごふ | kangofu | female nurse |
+| 関係 | かんけい | kankei | relationship |
+| 簡単 | かんたん | kantan | simple; easy |
+| 形 | かたち | katachi | shape |
+| 代わり | かわり | kawari | instead; in place |
+| 毛 | け | ke | hair or fur |
+| ケーキ | - | keeki | cake |
+| 怪我 | けが | kega | to injure |
+| 計画 | けいかく | keikaku | to plan |
+| 経験 | けいけん | keiken | to experience |
+| 警察 | けいさつ | keisatsu | police |
+| 経済 | けいざい | keizai | finance, economy |
+| 見物 | けんぶつ | kenbutsu | sightseeing; visit |
+| 喧嘩 | けんか | kenka | to quarrel |
+| 研究 | けんきゅう | kenkyuu | research |
+| 研究室 | けんきゅうしつ | kenkyuushitsu | laboratory |
+| 消しゴム | - | keshigomu | eraser |
+| 景色 | けしき | keshiki | scenery |
+| 気 | き | ki | spirit |
+| 気分 | きぶん | kibun | feeling; mood |
+| 機会 | きかい | kikai | chance; opportunity |
+| 危険 | きけん | kiken | danger |
+| 気持ち | きもち | kimochi | feeling |
+| 着物 | きもの | kimono | kimono; Japanese traditional clothing |
+| 近所 | きんじょ | kinjo | neighbourhood |
+| 絹 | きぬ | kinu | silk |
+| 季節 | きせつ | kisetsu | season |
+| 汽車 | きしゃ | kisha | train |
+| 規則 | きそく | kisoku | rule |
+| 子 | こ | ko | child |
+| 心 | こころ | kokoro | heart |
+| 国際 | こくさい | kokusai | international |
+| 米 | こめ | kome | (husked grains of) rice |
+| 今度 | こんど | kondo | this time; next time |
+| この間 | このあいだ | kono aida | the other day; recently |
+| このごろ | - | kono goro | these days; nowadays |
+| コンピュータ | - | konpyuuta | computer |
+| コンサート | - | konsaato | concert |
+| 今夜 | こんや | konya | this evening; tonigh |
+| 故障 | こしょう | koshou | to break-down |
+| 答え | こたえ | kotae | response |
+| 小鳥 | ことり | kotori | small bird |
+| 校長 | こうちょう | kouchou | principal; headmaster |
+| 講堂 | こうどう | koudou | auditorium |
+| 郊外 | こうがい | kougai | suburb; residential area on the outskirt of a city |
+| 講義 | こうぎ | kougi | lecture |
+| 工業 | こうぎょう | kougyou | industry |
+| 工場 | こうじょう | koujou | factory |
+| 高校 | こうこう | koukou | senior high school; high school​ |
+| 高校生 | こうこうせい | koukousei | high school student |
+| 公務員 | こうむいん | koumuin | government worker |
+| 高等学校 | こうとうがっこう | koutougakkou | high school |
+| 交通 | こうつう | koutsuu | traffic |
+| 首 | くび | kubi | neck |
+| 雲 | くも | kumo | cloud |
+| 草 | くさ | kusa | grass |
+| 空気 | くうき | kuuki | air |
+| 空港 | くうこう | kuukou | airport |
+| 客 | きゃく | kyaku | guest; customer |
+| 教育 | きょういく | kyouiku | education |
+| 教会 | きょうかい | kyoukai | church; congregation; Christian church |
+| 興味 | きょう mi | kyoumi | interest (in something); curiosity (about something); zest (for) |
+| 競争 | きょうそう | kyousou | competition |
+| 急行 | きゅうこう | kyuukou | hurrying (to somewhere); rushing; hastening |
+| 漫画 | まんが | manga | comic |
+| 真ん中 | まんなか | mannaka | middle; centre; center |
+| 周り | まわり | mawari | around |
+| 港 | みなと | minato | harbour |
+| 味噌 | みそ | miso | fermented condiment made from soybeans |
+| 都 | みやこ | miyako | capital |
+| 湖 | みずうみ | mizuumi | lake |
+| 木綿 | もめん | momen | cotton (material) |
+| 森 | もり | mori | forest |
+| 昔 | むかし | mukashi | olden days, former |
+| 無理 | むり | muri | impossible |
+| 虫 | むし | mushi | insect |
+| 息子 | むすこ | musuko | son |
+| 娘 | むすめ | musume | daughter |
+| 生 | なま | nama | raw |
+| 寝坊 | ねぼう | nebou | sleeping in late; oversleeping |
+| 値段 | ねだん | nedan | price; cost |
+| 熱 | ねつ | netsu | fever |
+| 二階建て | にかいだて | nikaidate | two-storied building |
+| 人形 | にんぎょう | ningyou | doll |
+| 匂い | におい | nioi | a smell |
+| 喉 | のど | nodo | throat |
+| 乗り物 | のりもの | norimono | vehicle |
+| 入学 | にゅうがく | nyuugaku | entry to school or university; enrollment |
+| 入院 | にゅういん | nyuuin | hospitalization |
+| 踊り | おどり | odori | a dance |
+| お祝い | おいわい | oiwai | congratulation |
+| お嬢さん | おじょうさん | ojousan | (another's) daughter |
+| 屋上 | おくじょう | okujou | rooftop​ |
+| 贈り物 | おくりもの | okurimono | present; gift |
+| お祭り | おまつり | omatsuri | festival |
+| お見舞い | おみまい | omimai | visiting ill or distressed people |
+| お土産 | おみやげ | omiyage | souvenir |
+| おもちゃ | - | omocha | toy |
+| 表 | おもて | omote | the front |
+| オートバイ | - | ootobai | motorcycle |
+| お礼 | おれい | orei | thanks |
+| 押し入れ | おしいれ | oshiire | closet |
+| お宅 | おたく | otaku | your home |
+| 音 | おと | oto | sound; note |
+| お釣り | おつり | otsuri | change (for a purchase)​ |
+| 夫 | おっと | otto | husband |
+| 終わり | おわり | owari | the end |
+| 親 | おや | oya | parents |
+| 泳ぎ方 | およぎかた | oyogikata | way of swimming |
+| パート | - | paato | part; part time |
+| パソコン | - | pasokon | personal computer |
+| ピアノ | - | piano | piano |
+| プレゼント | - | purezento | present; gift |
+| 冷房 | れいぼう | reibou | air conditioning |
+| レジ | - | reji | cashier​ |
+| 歴史 | れきし | rekishi | history |
+| レポート | - | repooto | report |
+| 利用 | りよう | riyou | use; utilization; application |
+| 理由 | りゆう | riyuu | reason |
+| 留守 | るす | rusu | absence |
+| 旅館 | りょかん | ryokan | traditional inn; Japanese-style lodging |
+| 両方 | りょうほう | ryouhou | both sides |
+| 最後 | さいご | saigo | end; last |
+| 最近 | さいきん | saikin | recently |
+| 最初 | さいしょ | saisho | beginning; first |
+| 坂 | さか | saka | slope; hill |
+| 昨夜 | さくや | sakuya | last night |
+| サンダル | - | sandaru | sandal |
+| サンドイッチ | - | sandoicchi | sandwich |
+| 産業 | さんぎょう | sangyou | industry |
+| サラダ | - | sarada | salad |
+| 再来月 | さらいげつ | saraigetsu | month after next |
+| 再来週 | さらいしゅう | saraishuu | week after next |
+| 生物 | せいぶつ | seibutsu | living thing |
+| 政治 | せいじ | seiji | politics |
+| 生活 | せいかつ | seikatsu | to live |
+| 生命 | せいめい | seimei | life |
+| 生産 | せいさん | seisan | production |
+| 西洋 | せいよう | seiyou | the west; Western countries |
+| 世界 | せかい | sekai | the world |
+| 席 | せき | seki | seat |
+| 線 | せん | sen | line |
+| 背中 | せなか | senaka | back (of body) |
+| 先輩 | せんぱい | senpai | senior |
+| 戦争 | せんそう | sensou | war |
+| 説明 | せつめい | setsumei | explanation |
+| 社長 | しゃちょう | shachou | company president; manager; director |
+| 社会 | しゃかい | shakai | society; public; community; the world |
+| 市 | し | shi | city |
+| 試合 | しあい | shiai | match,game |
+| 仕方 | しかた | shikata | way; method |
+| 試験 | shiken | shiken | examination |
+| 島 | しま | shima | island |
+| 市民 | 市民 | shimin | citizen |
+| 品物 | しなもの | shinamono | goods; article; thing |
+| 新聞社 | しんぶんしゃ | shinbunsha | newspaper company |
+| 親切 | しんせつ | shinsetsu | kindness |
+| 失敗 | しっぱい | shippai | failure |
+| 下着 | したぎ | shitagi | underwear |
+| 食料品 | しょくりょうひん | shokuryouhin | food; groceries |
+| 小学校 | しょうがっこう | shougakkou | elementary school |
+| 紹介 | しょうかい | shoukai | introduction |
+| 将来 | しょうらい | shourai | future |
+| 小説 | しょうせつ | shousetsu | novel |
+| 趣味 | しゅみ | shumi | hobby; pastime; preference |
+| 習慣 | しゅうかん | shuukan | habit; custom; cultural practice. |
+| 祖母 | そぼ | sobo | grandmother |
+| 祖父 | そふ | sofu | grandfather |
+| ソフト | - | sofuto | soft |
+| 卒業 | そつぎょう | sotsugyou | graduation |
+| 相談 | そうだん | soudan | to discuss |
+| 水道 | すいどう | suidou | water supply |
+| 水泳 | すいえい | suiei | swimming |
+| スクリーン | - | sukuriin | screen |
+| 隅 | すみ | sumi | corner; nook |
+| 砂 | すな | suna | sand |
+| すり | - | suri | pickpocket |
+| スーツケース | - | sustsukeesu | suitcase |
+| ステーキ | - | suteeki | steak |
+| ステレオ | - | sutereo | stereo |
+| 数学 | すうがく | suugaku | mathematics; arithmetic |
+| スーツ | - | suutsu | suit |
+| 退院 | たいいん | tai'in | leaving hospital; discharge from hospital |
+| 台風 | たいふう | taifuu | typhoon |
+| タイプ | - | taipu | type,style |
+| たいてい | - | taitei | usually |
+| 棚 | たな | tana | shelves |
+| 誕生 | たんじょう | tanjou | birth |
+| 楽しみ | たのしみ | tanoshimi | looking forward to​ |
+| 畳 | たたみ | tatami | Japanese straw mat |
+| 手袋 | てぶくろ | tebukuro | glove |
+| 丁寧 | ていねい | teinei | polite |
+| テキスト | - | tekisuto | text; textbook |
+| 適当 | てきとう | tekitou | suitable |
+| 点 | てん | ten | point; dot |
+| 店員 | てんいん | ten'in | employee (of a store); shop assistant; clerk |
+| テニス | - | tenisu | tennis |
+| 天気予報 | てんきよほう | tenkiyohou | weather forecast |
+| 展覧会 | てんらんかい | tenrankai | exhibition |
+| 寺 | てら | tera | temple |
+| 途中 | とちゅう | tochuu | on the way |
+| 特急 | とっきゅう | tokkyuu | limited express (train, faster than an express) |
+| 床屋 | とこや | tokoya | barber |
+| 特別 | とくべつ | tokubetsu | special; particular; extraordinary; exceptional |
+| 遠く | とおく | tooku | distant |
+| 都合 | つごう | tsugou | convenience |
+| 月 | つき | tsuki | moon |
+| 妻 | つま | tsuma | (humble) wife |
+| 腕 | うで | ude | arm |
+| 受付 | うけつけ | uketsuke | reception (desk); information desk​ |
+| 生まれ | うまれ | umare | birth |
+| 運転手 | うんてんしゅ | untenshu | driver; chauffeur |
+| 裏 | うら | ura | reverse side |
+| 売り場 | うりば | uriba | selling area |
+| 嘘 | うそ | uso | a lie |
+| ワープロ | - | waapuro | word processor |
+| 割合 | わりあい | wariai | rate; ratio |
+| 忘れ物 | わすれもの | wasuremono | lost article |
+| 約束 | やくそく | yakusoku | promise |
+| 予習 | よしゅう | yoshuu | preparation for a lesson |
+| 予定 | よてい | yotei | plan |
+| 用 | よう | you | business; task; errand; use; purpose |
+| 用意 | ようい | youi | preparation; arrangements; provision; getting ready |
+| 用事 | ようじ | youji | tasks; things to do; errand; business (to take care of) |
+| 予約 | よやく | yoyaku | reservation |
+| 湯 | ゆ | yu | hot water |
+| 指 | ゆび | yubi | finger |
+| 指輪 | ゆびわ | yubiwa | finger ring |
+| 夢 | ゆめ | yume | dream |
+| 残念 | ざんねん | zannen | regrettable; unfortunate |
